@@ -1,0 +1,10 @@
+.PrincipalBox {
+  display: grid;
+  justify-content: center;
+}
+.CardBox {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5vh;
+  margin: 5vh;
+}
